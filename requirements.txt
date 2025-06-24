@@ -1,0 +1,6 @@
+transformers
+torch
+nltk
+vaderSentiment
+pandas
+yfinance
